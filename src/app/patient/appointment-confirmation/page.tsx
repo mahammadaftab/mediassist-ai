@@ -19,6 +19,9 @@ export default function AppointmentConfirmationPage() {
   const searchParams = useSearchParams()
   const referenceId = searchParams.get("ref")
 
+
+
+  
   // Mock appointment data - in real app, fetch from API using reference ID
   const appointmentData = {
     referenceId: referenceId || "REF-ABC123",
