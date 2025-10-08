@@ -15,7 +15,7 @@ import {
   CheckCircleIcon,
   ClockIcon,
   EyeIcon,
-  ArrowDownTrayIcon, // Use this for download
+  ArrowDownTrayIcon, // Use this as the download icon
   ShareIcon,
   PrinterIcon
 } from "@heroicons/react/24/outline"
